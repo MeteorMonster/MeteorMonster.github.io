@@ -3,6 +3,4 @@ layout: default
 title: Include
 ---
 
-{% include sig.markdown %}
-
 This _is_ cool
